@@ -753,7 +753,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: 
+  m_Text: "\u6EF2\u307F\u51FA\u3059\u6DF7\u6FC1\u306E\u7D0B\u7AE0\n\u4E0D\u905C\u306A\u308B\u72C2\u6C17\u306E\u5668\n\u6E67\u304D\u4E0A\u304C\u308A\u30FB\u5426\u5B9A\u3057\u30FB\u75FA\u308C\u30FB\u77AC\u304D\n\u7720\u308A\u3092\u59A8\u3052\u308B\n\u722C\u884C\u3059\u308B\u9244\u306E\u738B\u5973\n\u7D76\u3048\u305A\u81EA\u58CA\u3059\u308B\u6CE5\u306E\u4EBA\u5F62\n\u7D50\u5408\u305B\u3088
+    \u53CD\u767A\u305B\u3088\n\u5730\u306B\u6E80\u3061 \u5DF1\u306E\u7121\u529B\u3092\u77E5\u308C"
 --- !u!1 &1010923670016082565
 GameObject:
   m_ObjectHideFlags: 0
@@ -920,8 +921,8 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 12800000, guid: db8aec58b7ce99443a1c4f5cd4d9e408, type: 3}
-    m_FontSize: 84
+    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_FontSize: 72
     m_FontStyle: 1
     m_BestFit: 0
     m_MinSize: 0
@@ -932,4 +933,4 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\u300C\u9ED2\u68FA\u300D"
+  m_Text: "\u7834\u9053\u306E\u4E5D\u5341 \u300C\u9ED2\u68FA\u300D"
