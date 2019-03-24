@@ -42,5 +42,6 @@ public class BlackCoffin : MonoBehaviour
         {
             quad.SetActive(false);
         }
+        Destroy(gameObject);
     }
 }
